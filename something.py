@@ -137,4 +137,5 @@ def a_star_search(start):
 steps = a_star_search(start_state)
 
 print("A* Search")
-print("Steps :", steps)
+print("Steps :", steps) 
+# i was absent 
